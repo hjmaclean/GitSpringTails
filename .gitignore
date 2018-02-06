@@ -1,0 +1,12 @@
+
+# Session Data files
+.RData
+*.doc
+*.png
+*.pdf
+*.R
+
+
+# Temporary files created by R markdown
+*.utf8.md
+*.knit.md
